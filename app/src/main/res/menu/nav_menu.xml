@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeTab"
+        android:title="Home"
+        android:icon = "@drawable/ic_home_black_24dp">
+    </item>
+    <item
+        android:id = "@+id/pooja_forms"
+        android:title = "Pooja Info/Forms"
+        android:icon = "@drawable/ic_info_outline_black_24dp">
+    </item>
+    <item
+        android:id = "@+id/vhs"
+        android:title = "Vedic Heritage School"
+        android:icon = "@drawable/ic_school_black_24dp">
+    </item>
+    <item
+        android:id = "@+id/volunteer"
+        android:title = "Volunteer Registration"
+        android:icon = "@drawable/ic_create_black_24dp">
+    </item>
+    <item
+        android:id = "@+id/rentals"
+        android:title = "MTS Facility Rentals"
+        android:icon = "@drawable/ic_info_black_24dp">
+    </item>
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Houston Sri Meenakshi Temple</string>
+    <string name="Open">MTSapp</string>
+    <string name="Close">MTSapp</string>
+    <string name="temple_timings"><u>Temple Timings</u></string>
+    <string name="dress_code_header"><u>Temple Dress Code:</u></string>
+    <string name="pooja_header"><u>Pooja Information:</u></string>
+    <string name="vhs_header"><u>Sri Meenakshi Temple\nVedic Heritage School</u></string>
+    <string name="volunteer_header"><u>Volunteer Registration</u></string>
+    <string name="dress_code">Please wear appropriate clothing, which covers shoulders and knees. \n\nDresses like shorts and sleeveless garments for \nboth men and women \nare not suitable. </string>
+</resources>
